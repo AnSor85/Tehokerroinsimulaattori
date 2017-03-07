@@ -1,22 +1,5 @@
-﻿Build started 14.2.2017 14:17:39.
-     1>Project "C:\Users\Anssi\Documents\Visual Studio 2012\Projects\Tehokerroinsimulaattori\Tehokerroinsimulaattori\Tehokerroinsimulaattori.vcxproj" on node 2 (Build target(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Tehokerroinsimulaattori.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
-         stdafx.cpp
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Tehokerroinsimulaattori.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Tehokerroinsimulaattori.cpp TehokerroinsimulaattoriDlg.cpp
-         TehokerroinsimulaattoriDlg.cpp
-         Tehokerroinsimulaattori.cpp
-         Generating Code...
-       ResourceCompile:
-         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /l"0x0409" /IDebug\ /nologo /fo"Debug\Tehokerroinsimulaattori.res" Tehokerroinsimulaattori.rc 
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Anssi\Documents\Visual Studio 2012\Projects\Tehokerroinsimulaattori\Debug\Tehokerroinsimulaattori.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Anssi\Documents\Visual Studio 2012\Projects\Tehokerroinsimulaattori\Debug\Tehokerroinsimulaattori.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Anssi\Documents\Visual Studio 2012\Projects\Tehokerroinsimulaattori\Debug\Tehokerroinsimulaattori.lib" /MACHINE:X86 Debug\Tehokerroinsimulaattori.res
-         Debug\stdafx.obj
-         Debug\Tehokerroinsimulaattori.obj
-         Debug\TehokerroinsimulaattoriDlg.obj
-         Tehokerroinsimulaattori.vcxproj -> C:\Users\Anssi\Documents\Visual Studio 2012\Projects\Tehokerroinsimulaattori\Debug\Tehokerroinsimulaattori.exe
-     1>Done Building Project "C:\Users\Anssi\Documents\Visual Studio 2012\Projects\Tehokerroinsimulaattori\Tehokerroinsimulaattori\Tehokerroinsimulaattori.vcxproj" (Build target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:34.11
+﻿  Skipping... (no relevant changes detected)
+  TehokerroinsimulaattoriDlg.cpp
+  Tehokerroinsimulaattori.cpp
+  Tehokerroinsimulaattori.vcxproj -> C:\Users\Anssi\Documents\GitHub\Portfolio\Tehokerroinsimulaattori\Debug\Tehokerroinsimulaattori.exe
+  Tehokerroinsimulaattori.vcxproj -> C:\Users\Anssi\Documents\GitHub\Portfolio\Tehokerroinsimulaattori\Debug\Tehokerroinsimulaattori.pdb (Full PDB)
